@@ -11,6 +11,8 @@ void initialize(CStash* s, int sz)
 	s->quantity = 0;
 	s->storage = 0;
 	s->next = 0; 
+
+
 }
 
 void cleanup(CStash* s);
