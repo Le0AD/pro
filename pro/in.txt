@@ -1,0 +1,7 @@
+Once you have that libraries changes you will
+ notice that even the emulator is unable to run your 
+game as and it will complain about OpenGL,
+ configurations, thats because that run is not flagged as
+to run in a emulator and the game configures OpenGL
+ differently. For getting that run flagged as emulator
+ run you need to introduce a little change on 
