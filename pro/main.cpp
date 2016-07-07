@@ -25,6 +25,7 @@ int main()
 	int(*(*pf3)(int))[10];
 	pf3 = &func3;
 
+
 	cin.get(); cin.get();
 	return 0;
 }
